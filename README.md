@@ -1,2 +1,3 @@
 # APNS_PushServer
+这是一个能让iOS开发者在本地轻松发送push消息给设备的一个库
 local apns_pushserver for iOS
